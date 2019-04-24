@@ -13,3 +13,5 @@ elif n1 < n2 > n3:
 elif n1 < n3 > n2:
     print ( "El número mayor es el tercer número. Numero,",n3)
 
+else:
+    print("los Números son iguales.")
